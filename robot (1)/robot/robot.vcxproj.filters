@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\robot (1) 수정 전\robot\robot.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="jjob_robot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

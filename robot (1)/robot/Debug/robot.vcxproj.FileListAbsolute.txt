@@ -4,3 +4,4 @@ C:\Users\orang\Downloads\robot\robot\Debug\robot.exe
 C:\Users\orang\Downloads\robot\robot\Debug\robot.pdb
 C:\Users\dnr20\OneDrive\바탕 화면\2022학년도 1학기\컴퓨터 그래픽스\로봇\robot (1)\robot\Debug\robot.exe
 D:\2022학년도 1학기\컴퓨터 그래픽스\로봇\robot (1)\robot\Debug\robot.exe
+C:\Users\dnr20\OneDrive\문서\GitHub\OpenGL\robot (1)\robot\Debug\robot.exe

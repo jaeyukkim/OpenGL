@@ -1,2 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Chap4_1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  Chap4.vcxproj -> D:\2022학년도 1학기\컴퓨터 그래픽스\로봇\graphics_final_project 2017305021 - 김재욱\Debug\final_project.exe
+  robot_final_project(2017305021).cpp
+C:\Users\dnr20\OneDrive\문서\GitHub\OpenGL\graphics_final_project 2017305021 - 김재욱\Chap4\robot_final_project(2017305021).cpp(45,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Chap4.vcxproj -> C:\Users\dnr20\OneDrive\문서\GitHub\OpenGL\graphics_final_project 2017305021 - 김재욱\Debug\final_project.exe
